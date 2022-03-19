@@ -1,8 +1,8 @@
-#你好 我是兴某人:wave:
+<font size=10>你好 我是兴某人:wave:</font>
 
-##本人目前高中生:sweat_drops: 
+本人目前高中生:sweat_drops: 
 
-###坐标:heart:China:heart:山东潍坊
+坐标:heart:China:heart:山东潍坊
 
 
 
