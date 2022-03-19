@@ -1,34 +1,3 @@
-<font size=10>你好 我是兴某人:wave:</font>
-
-本人目前高中生:sweat_drops: 
-
-坐标:heart:China:heart:山东潍坊
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 大家好！<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">:sunny:这里是兴某人:sunny:
+***
+## 本人真名<font size=100>曹文彬</font>
