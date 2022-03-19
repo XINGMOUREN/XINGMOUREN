@@ -16,5 +16,6 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ## &#x1f4c8;GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XINGMOUREN)](https://github.com/anuraghazra/github-readme-stats)
-# CaoJunyi
-![blockchain](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
+# 曹君宜
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
+## ***学业繁忙，暂且告辞！***
