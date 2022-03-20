@@ -1,4 +1,4 @@
-# 大家好！<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是兴某人
+# 大家好！<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是欢乐小王
 ## 本人真名曹文彬，坐标China山东潍坊，现高一学生~~兼学生会主席~~，偶尔喜欢敲敲代码。
 ## 🔧 个人擅长
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -19,3 +19,7 @@
 # 曹君宜
 ![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
 ## ***学业繁忙，暂且告辞！***
+# 我的一些东西
+！[工具箱]（https://a2638526782.rth1.me/）
+！[知乎主页]（https://www.zhihu.com/people/gui-hua-ju-zhu）
+！[编程学习网站]（https://www.runoob.com/）
