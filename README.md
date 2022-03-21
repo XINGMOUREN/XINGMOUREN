@@ -94,5 +94,11 @@ print("hello,world")
 
 **Caojunyi**
 ![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
-![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
+
 ***By the way I'm busy with my studies. I'll leave now***
