@@ -22,25 +22,26 @@
 <br />
 <br />
 
-- I am a **Programming rookie** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
+
+
+- I am a **Student** 
+- I like to use a variety of useful **computer software** and build  **Some procedures**
 - I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
+- I used to dream of being a Singer.But **the reality made me have to learn a technology💻**
+- Sometimes i like to **type some code.**
+- **I also love a girl❤️**
 
 <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am a student of **Changyi NO 1 middle school**.
+- 👨 I am a student of **Changyi NO 1 middle school**.
 - 💻 Major is **Physics Chemistry and Biology**.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
+- 🌱 I'm currently learning **Python and Linux**. 
+- 🤔 My hobbies are **Play Counter-Strike: Global Offensive**.
 - 💼 I like **the whole job**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **yzplove99@gmail.com**.
+- This is my email: **w16653669718@163.com**.
 
 
 
@@ -55,7 +56,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=XINGMOUREN&count_private=true&show_icons=true" alt="HappyWang" />
 
 **Technology being learned**
 
@@ -90,3 +91,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 **If you like this readme file, please give me star! ❤️**
+
+**Caojunyi**
+![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
