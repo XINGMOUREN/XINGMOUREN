@@ -90,11 +90,9 @@ print("hello,world")
 
 <!--END_SECTION:waka-->
 
-**If you like this readme file, please give me star! ❤️**
 
 **Caojunyi**
 ![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
-![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
 ![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
 ![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
 ![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/caojunyi.gif?raw=true)
