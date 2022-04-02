@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-print("hello,world")
+hexo cl && hexo g && hexo algolia &&  gulp && hexo d
 ```
 
 <!--END_SECTION:waka-->
