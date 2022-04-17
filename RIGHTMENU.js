@@ -169,32 +169,4 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     translateInitialization()
     document.addEventListener('pjax:complete', translateInitialization)
-  })// 右键菜单事件
-  if(! (navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))){
-      window.oncontextmenu = function(event){
-          $('.rightMenu-group.hide').hide();
-          if(document.getSelection().toString()){
-              $('#menu-text').show();
-          }
-  
-          console.log(event.target);
-          let pageX = event.clientX + 10;
-          let pageY = event.clientY;
-          let rmWidth = $('#rightMenu').width();
-          let rmHeight = $('#rightMenu').height();
-          if(pageX + rmWidth > window.innerWidth){
-              pageX -= rmWidth+10;
-          }
-          if(pageY + rmHeight > window.innerHeight){
-              pageY -= pageY + rmHeight - window.innerHeight;
-          }
-  
-  
-  
-          kk.showRightMenu(true, pageY, pageX);
-          return false;
-      };
-  
-      window.addEventListener('click',function(){kk.showRightMenu(false);});
-      window.addEventListener('load',function(){kk.switchTheme(true);});
-  }
+  })
