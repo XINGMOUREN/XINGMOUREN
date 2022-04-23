@@ -69,7 +69,7 @@ $('#menu-home').on('click',function(){window.location.href = window.location.ori
 //复制选中文字
 kk.copySelect = function(){
     document.execCommand('Copy',false,null);
-    alert("复制成功！祝你今天开心哦");
+    .show("复制成功！祝你今天开心哦");
     //这里可以写点东西提示一下 已复制
 }
 
