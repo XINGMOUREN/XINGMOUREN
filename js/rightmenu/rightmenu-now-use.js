@@ -69,7 +69,7 @@ $('#menu-home').on('click',function(){window.location.href = window.location.ori
 //复制选中文字
 kk.copySelect = function(){
     document.execCommand('Copy',false,null);
-    GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.Snackbar.copy.success)
+    GLOBAL_CONFIG.Snackbar !== undefined && btf.snackbarShow(GLOBAL_CONFIG.copy.success)
     //这里可以写点东西提示一下 已复制
 }
 kk.switchDarkMode = function(){
