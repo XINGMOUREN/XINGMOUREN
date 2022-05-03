@@ -16,7 +16,7 @@ let rmHeight = $('#rightMenu').height();
 window.oncontextmenu = function(event){
     let pageX = event.clientX + 10;	//加10是为了防止显示时鼠标遮在菜单上
     let pageY = event.clientY;
-    
+    if (event.ctrlKey) return true; //ctrl+右键 使用原生右键
     // 鼠标默认显示在鼠标右下方，当鼠标靠右或考下时，将菜单显示在鼠标左方\上方
     if(pageX + rmWidth > window.innerWidth){
         pageX -= rmWidth;
