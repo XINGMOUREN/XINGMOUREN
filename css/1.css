@@ -1,0 +1,6 @@
+#fMessageBoard .fUpdatedTime {
+    display: none;
+}
+#fMessageBoard #switchRankBtn {
+    display: none;
+}
