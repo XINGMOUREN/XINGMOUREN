@@ -8,6 +8,9 @@ var backimg =[
     "url(https://www.z4a.net/images/2022/05/02/79776133_p0.png)",
     "url(https://pic.imgdb.cn/item/626f3a0c239250f7c525adf0.png)",
     "url(https://pic.imgdb.cn/item/626f3a2a239250f7c525fbea.jpg)",
+    "url(https://pic.imgdb.cn/item/629e9d3f0947543129184dd0.png)",
+    "url(https://pic.imgdb.cn/item/629e9d840947543129188319.jpg)",
+    "url(https://pic.imgdb.cn/item/62598114239250f7c550fc26.jpg)",
     "url(https://pic.imgdb.cn/item/625d7324239250f7c5cb0b61.png)"
   ];
   //获取背景图片总数，生成随机数
