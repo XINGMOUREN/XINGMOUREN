@@ -1,0 +1,30 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 经验修补.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 魔法修复沙子.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: 魔法修复沙子2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 经验修补.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 魔法修复沙子.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: 魔法修复沙子2.zs}
+[INITIALIZATION][CLIENT][INFO] Adding 宁静的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 盛开的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 耀眼的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 闪烁的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 闪耀的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 灼热的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 照耀的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Adding 华丽的能量石 to ore dictionary entry myOwnEntry
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 404ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 附魔书 with name ct_shaped1419359607
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 魔法修复沙 with name ct_shaped-276398362
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <aoa3:magic_repair_dust>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 70 as short}]})
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[SERVER_STARTED][CLIENT][INFO] Adding description in JEI for: <aoa3:magic_repair_dust>
+[SERVER_STARTED][CLIENT][INFO] Adding description in JEI for: <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 70 as short}]})

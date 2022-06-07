@@ -1,0 +1,32 @@
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] CustomSkinLoader 14.9
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] DataDir: C:\Users\c\Desktop\虚无世界V1.15V\.minecraft\CustomSkinLoader
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] Minecraft: 1.12.2(1.12.2)
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] Config File: C:\Users\c\Desktop\虚无世界V1.15V\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] Try to load config.
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] Successfully load config.
+[2022-06-07 16:43:43] [pool-5-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
+[2022-06-07 16:43:44] [妈的兴某人真帅拖拖 INFO] Loading 妈的兴某人真帅拖拖's profile.
+[2022-06-07 16:43:44] [妈的兴某人真帅拖拖 INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-06-07 16:43:44] [妈的兴某人真帅拖拖 INFO] Default profile will be used.
+[2022-06-07 16:43:44] [妈的兴某人真帅拖拖 INFO] 妈的兴某人真帅拖拖's profile loaded.
+[2022-06-07 16:43:44] [妈的兴某人真帅拖拖 INFO] (SkinUrl: https://mcskin.cn/textures/92dee4cb65fb866402adb91991e4170205bfa044e461c502971b396db493a6c2 , Model: default , CapeUrl: null  , Expiry: 1654591459)
+[2022-06-07 16:53:31] [lbg3 INFO] Loading lbg3's profile.
+[2022-06-07 16:53:31] [lbg3 INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-06-07 16:53:31] [lbg3 INFO] Default profile will be used.
+[2022-06-07 16:53:31] [lbg3 INFO] lbg3's profile loaded.
+[2022-06-07 16:53:31] [lbg3 INFO] (SkinUrl: https://mcskin.cn/textures/3da4e7e5eed4dbeb259ee70c393f6109fc4ab9d201e0fdf5b7883de1a1010be1 , Model: default , CapeUrl: null  , Expiry: 1654592043)
+[2022-06-07 16:55:27] [lbg3 INFO] Loading lbg3's profile.
+[2022-06-07 16:55:27] [lbg3 INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-06-07 16:55:27] [lbg3 INFO] Default profile will be used.
+[2022-06-07 16:55:27] [lbg3 INFO] lbg3's profile loaded.
+[2022-06-07 16:55:27] [lbg3 INFO] (SkinUrl: https://mcskin.cn/textures/3da4e7e5eed4dbeb259ee70c393f6109fc4ab9d201e0fdf5b7883de1a1010be1 , Model: default , CapeUrl: null  , Expiry: 1654592161)
+[2022-06-07 17:01:14] [lbg3 INFO] Loading lbg3's profile.
+[2022-06-07 17:01:14] [lbg3 INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-06-07 17:01:14] [lbg3 INFO] Default profile will be used.
+[2022-06-07 17:01:14] [lbg3 INFO] lbg3's profile loaded.
+[2022-06-07 17:01:14] [lbg3 INFO] (SkinUrl: https://mcskin.cn/textures/3da4e7e5eed4dbeb259ee70c393f6109fc4ab9d201e0fdf5b7883de1a1010be1 , Model: default , CapeUrl: null  , Expiry: 1654592507)
+[2022-06-07 17:06:12] [lbg3 INFO] Loading lbg3's profile.
+[2022-06-07 17:06:12] [lbg3 INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-06-07 17:06:12] [lbg3 INFO] Default profile will be used.
+[2022-06-07 17:06:12] [lbg3 INFO] lbg3's profile loaded.
+[2022-06-07 17:06:12] [lbg3 INFO] (SkinUrl: https://mcskin.cn/textures/3da4e7e5eed4dbeb259ee70c393f6109fc4ab9d201e0fdf5b7883de1a1010be1 , Model: default , CapeUrl: null  , Expiry: 1654592805)
