@@ -1,0 +1,18 @@
+{
+  "id": "DOOR_26,60,141",
+  "name": "DOOR",
+  "icon": "waypoint-normal.png",
+  "x": 26,
+  "y": 60,
+  "z": 141,
+  "r": 119,
+  "g": 178,
+  "b": 37,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    815
+  ],
+  "persistent": true
+}

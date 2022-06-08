@@ -1,0 +1,123 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "C:\\Users\\c\\AppData\\Roaming\\.minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "width": 160.0,
+  "height": 28.0,
+  "theme": "#5c6bc0",
+  "localization": "def",
+  "autoDownloadThreads": false,
+  "downloadThreads": 64,
+  "downloadType": "mcbbs",
+  "autoChooseDownloadType": true,
+  "versionListSource": "balanced",
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": true,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 2560,
+        "autoMemory": true,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "postExitCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "processPriority": 2,
+        "useNativeGLFW": false,
+        "useNativeOpenAL": false,
+        "gameDirType": 0,
+        "defaultJavaPath": "",
+        "nativesDir": "",
+        "nativesDirType": 0,
+        "versionIcon": 0
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "1.12.2"
+    },
+    "Home": {
+      "global": {
+        "usesGlobal": true,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 2560,
+        "autoMemory": true,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "postExitCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "processPriority": 2,
+        "useNativeGLFW": false,
+        "useNativeOpenAL": false,
+        "gameDirType": 0,
+        "defaultJavaPath": "",
+        "nativesDir": "",
+        "nativesDirType": 0,
+        "versionIcon": 0
+      },
+      "gameDir": "C:\\Users\\c\\AppData\\Roaming\\.minecraft",
+      "useRelativePath": false,
+      "selectedMinecraftVersion": ""
+    }
+  },
+  "accounts": [
+    {
+      "serverBaseURL": "https://mcskin.cn/api/yggdrasil/",
+      "clientToken": "39fa8e4dcb4545e5832677e65f670a9f",
+      "displayName": "妈的兴某人真帅拖拖",
+      "userProperties": {},
+      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIwNWJiZThhMTM3Mzc1MjcwOTU5YWUzZWIzNmQxNDA3OCIsInlnZ3QiOiI5ZDQ0NjE4ODFkNDQ0YmJmODMxMTQxMzFjMzNkZjJkZiIsInNwciI6IjgzMzQxZWUzNDFhMzMzYzhhM2U4MWY0MjhjN2MxNzZkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2NTQ4NTAzODMuNjYwMDc3LCJpYXQiOjE2NTQ1OTExODMuNjYwMDc3fQ._dUVLvD7KeSJLSCenCePW_N3oBPaABI8VYjE-F6oLkw",
+      "profileProperties": {
+        "textures": "eyJ0aW1lc3RhbXAiOjE2NTQ2NjcxMDE2OTIsInByb2ZpbGVJZCI6IjgzMzQxZWUzNDFhMzMzYzhhM2U4MWY0MjhjN2MxNzZkIiwicHJvZmlsZU5hbWUiOiJcdTU5ODhcdTc2ODRcdTUxNzRcdTY3ZDBcdTRlYmFcdTc3MWZcdTVlMDVcdTYyZDZcdTYyZDYiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL21jc2tpbi5jbi90ZXh0dXJlcy85MmRlZTRjYjY1ZmI4NjY0MDJhZGI5MTk5MWU0MTcwMjA1YmZhMDQ0ZTQ2MWM1MDI5NzFiMzk2ZGI0OTNhNmMyIn19fQ\u003d\u003d",
+        "uploadableTextures": "skin,cape"
+      },
+      "type": "authlibInjector",
+      "uuid": "83341ee341a333c8a3e81f428c7c176d",
+      "selected": true,
+      "username": "2638526782@qq.com"
+    }
+  ],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 100,
+  "titleTransparent": false,
+  "authlibInjectorServers": [
+    {
+      "url": "https://mcskin.cn/api/yggdrasil/",
+      "metadataResponse": "{\"meta\":{\"serverName\":\"\\u7ea2\\u77f3\\u76ae\\u80a4\\u7ad9\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"5.1.5\",\"links\":{\"homepage\":\"https:\\/\\/mcskin.cn\",\"register\":\"https:\\/\\/mcskin.cn\\/auth\\/register\"},\"feature.non_email_login\":true},\"skinDomains\":[\"mcskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAv+8Xta7unLeXDMndrN7R\\nSpt5yD\\/\\/PGvz1xkwM9gDvLW9\\/3lGyOBK\\/QtimYqzmFueCv6U37iHFk9+Q0xK44MB\\nYhDG\\/hViKl1OmNRyKbTnC9rFYDHvCyNO8ILzym4h41MaJvVfpiNcdji9pAME1P3I\\nxsu9MJmuEkIObUeztZFaWuP7VCh3r5YBBeAZAx2CFKs+G9SwaH4AwqkQDkOdkBgb\\n8UYIQMeTynnEqRffetUUkG05Lj3fAAfv6PVaeHUBtHV4gkM+TIEyZh3KrefNo8+G\\nWj\\/t7Qdmu8weoan2wtCgWqoR577eQPa4KWqTEZStRGja4HeCZ9\\/Ts7kLKJ1OX6kH\\nZcU0F8ZL2GAgvZmGEFwVKVUdwO4lJWSdm61ZsdVdtlIvi2WsESxT1NbD+51NnC8r\\n8+RLDl6E\\/zaoxkYhEDsLtUAu1qRLJXqgiRdL4RJ+uAeFcFoHaUkX7KlNRZnb\\/g5L\\n+SLSsmlZE6BLdHB1bEFFdW9GziwX9yk\\/fwEJOLnE4NN696gowgqNIxeyDVBOdPWV\\n4YKj0ChHQgn+5RNlglnNKk20a37oXFMpDGGEzMA+TBEJ6NTNFSBBewrpREdOgsvG\\n3+iAyB7fGvSS9+qi6OzKVHWMYPlIe5Yo2\\/cXGAb15O3y6yk1MSmkSM\\/2qk4juTNk\\nr9ro46PL5zKJ8O3on4jJzt0CAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
+      "metadataTimestamp": 1654667100406
+    }
+  ],
+  "_version": 0,
+  "uiVersion": 0
+}

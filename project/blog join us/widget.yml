@@ -1,0 +1,9 @@
+bottom:
+  - class_name: happy forever blog
+    id_name: 
+    name: 加入我们!
+    icon: icon-lianjie
+    order:
+    html: '<iframe src="https://happyking.top/artitalk/" width="100%" frameborder="0" scrolling="no"></iframe>
+'
+
