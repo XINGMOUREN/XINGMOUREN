@@ -1,0 +1,18 @@
+{
+  "id": "JOME_-5,68,147",
+  "name": "JOME",
+  "icon": "waypoint-normal.png",
+  "x": -5,
+  "y": 68,
+  "z": 147,
+  "r": 224,
+  "g": 158,
+  "b": 96,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
