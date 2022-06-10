@@ -111,7 +111,7 @@ $('#menu-readmode').on('click',kk.switchReadMode);
 kk.switchTheme=function(load=false){
     //空字符串表示butterfly原版主题（即不加载css）
     //FallGuys.css是我自己的魔改主题，需替换
-    let themes = ['custom.css','cao.css'];
+    let themes = ['cao.css','custom.css'];
     let vTheme = parseInt(localStorage.getItem('visitor-theme'));
     if(!vTheme){
         vTheme = load?0:1;
