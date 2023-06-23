@@ -42,7 +42,7 @@
 - 💼 I like **the whole job**.
 - 💬 If you have any questions, **just ask me**.
 - This is my email: **w16653669718@163.com**.
-- Click [here](https://happyking.top) to my blog
+- Click [here](https://happyking.top) to my homepage
 
 
 
