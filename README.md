@@ -29,7 +29,6 @@
 - I also like **literature, reading and writing.** 
 - I used to dream of being a Singer.But **the reality made me have to learn a technology💻**
 - Sometimes i like to **type some code.**
-- **I also love a girl❤️**
 
 <img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
 
