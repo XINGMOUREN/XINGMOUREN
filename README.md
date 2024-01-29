@@ -90,5 +90,3 @@ hexo cl && hexo g && hexo algolia &&  gulp && hexo d
 
 <!--END_SECTION:waka-->
 
-💕**Caojunyi**
-![曹君宜](https://github.com/XINGMOUREN/XINGMOUREN/blob/main/images/personal%20introduce.jpg?raw=true)
